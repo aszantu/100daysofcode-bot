@@ -1,2 +1,2 @@
 # 100daysofcode-bot
-100 Days Of Code Bot
+A simple Twitter bot to favourite all things #100DaysOfCode.
