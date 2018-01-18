@@ -1,0 +1,29 @@
+{
+  "name": "100daysofcode-bot",
+  "version": "1.0.0",
+  "description": "100 days of code bot, made with Node JS ",
+  "main": "app.js",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajukco/100daysofcode-bot.git"
+  },
+  "keywords": [
+    "100daysofcode",
+    "bot",
+    "twitter",
+    "nodejs"
+  ],
+  "author": "Andrew Raynes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajukco/100daysofcode-bot/issues"
+  },
+  "homepage": "https://github.com/ajukco/100daysofcode-bot#readme"
+}
