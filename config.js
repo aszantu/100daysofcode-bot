@@ -1,8 +1,8 @@
 module.exports = {
-  var consumer_key = process.env.consumer_key;
-  var consumer_secret = process.env.consumer_secret;
-  var access_token_key = process.env.access_token_key;
-  var access_token_secret = process.env.access_token_secret;
+//   var consumer_key = process.env.consumer_key;
+//   var consumer_secret = process.env.consumer_secret;
+//   var access_token_key = process.env.access_token_key;
+//   var access_token_secret = process.env.access_token_secret;
   console.log(process.env)
 }
 
