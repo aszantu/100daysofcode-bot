@@ -4,8 +4,8 @@ const T = new Twitter(config);
 
 // Set up your search parameters
 const params = {
-  q: '#cats',
-  count: 10,
+  q: '#100daysofcode',
+  count: 50,
   result_type: 'recent',
   lang: 'en'
 }
